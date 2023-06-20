@@ -14,9 +14,8 @@ const Form = ({
         <span className="blue_gradient">{type} Prompt</span>
       </h1>
       <p className="desc text-left max-w-md">
-        {type} and share amazing prompts with the
-        world, and let your imagination run wild with
-        any Al-powered platform.
+        {type} and share fantastic prompts with the world.
+        Use any Al-powered platform to unleash your creativity.
       </p>
 
       <form
